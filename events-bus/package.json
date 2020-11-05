@@ -1,0 +1,16 @@
+{
+  "name": "events-bus",
+  "version": "1.0.0",
+  "description": "This is the event bus service for learning",
+  "main": "index.js",
+  "author": "hoanle",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}

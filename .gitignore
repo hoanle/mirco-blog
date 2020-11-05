@@ -1,0 +1,19 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/client/node_modules
+/comments/node_modules
+/events-bus/node_modules
+/moderation/node_modules
+/posts/node_modules
+/query/node_modules
+
+/client/build
+/comments/build
+/events-bus/build
+/infra/build
+/moderation/build
+/posts/build
+/query/build
+
+/build
